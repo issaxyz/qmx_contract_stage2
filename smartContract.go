@@ -8,7 +8,7 @@ import (
 	"log"
 
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
-	iot "github.com/hyperledger/fabric-samples/asset-transfer-abac/chaincode-go/smart-contract"
+	iot "github.com/issaxyz/qmx_contract_stage2/smart-contract"
 )
 
 func main() {

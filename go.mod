@@ -1,4 +1,4 @@
-module github.com/hyperledger/fabric-samples/asset-transfer-abac/chaincode-go
+module github.com/issaxyz/qmx_contract_stage2
 
 go 1.17
 
